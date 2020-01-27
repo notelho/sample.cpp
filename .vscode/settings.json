@@ -4,6 +4,9 @@
         "iomanip": "cpp",
         "cstdlib": "cpp",
         "ostream": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "istream": "cpp",
+        "iosfwd": "cpp",
+        "tuple": "cpp"
     }
 }
