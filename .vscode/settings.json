@@ -7,6 +7,8 @@
         "limits": "cpp",
         "istream": "cpp",
         "iosfwd": "cpp",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "string": "cpp",
+        "xstring": "cpp"
     }
 }
